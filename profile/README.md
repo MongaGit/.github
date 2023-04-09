@@ -1,6 +1,12 @@
-# Monga - Tecnologia e Desenvolvimento
+<img align="left" width="100" height="100" src="https://github.com/MongaGit/.github/blob/main/profile/images/images.png">
 
-![Monga logo](./images/monga-logo.png){: align="right" width="224"}
+```
+MongaTech Inc.
+```
+
+---
+
+# Monga - Tecnologia e Desenvolvimento
 
 A Monga é uma empresa fictícia que atua no ramo de tecnologia e desenvolvimento, cujo foco principal é fornecer modelos de estudo de caso para criação de laboratórios de desenvolvimento, desde a infraestrutura até a aplicação em produção.
 
