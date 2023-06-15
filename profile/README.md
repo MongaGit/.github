@@ -1,4 +1,3 @@
-*[Portugues](README.md) ∙ [English](README-en.md)*
 
 <img align="left" width="100" height="100" src="https://github.com/MongaGit/.github/blob/main/profile/images/images.png">
 
@@ -16,9 +15,10 @@ from MongaTech import Software_Developer
 from Marx import Comunism
 ```
 
+
 ## Infraestrutura
 
-Na parte de infraestrutura, eles são capazes de criar ambientes escaláveis e seguros para aplicações, utilizando ferramentas como Docker, Kubernetes, Terraform e Ansible.
+Na parte de infraestrutura, foco em criar ambientes escaláveis e seguros para aplicações, utilizando ferramentas como Docker, Kubernetes, Terraform e Ansible. Com melhores praticas em segurança de rede. 
 
 ## DevOps
 
@@ -26,8 +26,8 @@ Na parte de DevOps, o time da Monga utiliza ferramentas como Terraform, Ansible,
 
 ## Linguagens de programação
 
-No que se refere a linguagens de programação para DevOps, alguns exemplos são Python, PowerShell e Bash . Já no desenvolvimento de aplicações, a equipe da Monga é capaz de trabalhar em diferentes camadas, incluindo o frontend, onde utilizam HTML, CSS e JavaScript e TypeScript e o backend, onde utilizam linguagens como NoSQL, SQL, Java, Python, Ruby e PHP, além de frameworks como Django e Flask
+Linguagens de programação para DevOps, alguns exemplos são algumas ferramentas CI/CD como Github Action e Pipilenes Azure DevOps, Shell, PowerShell. Já no desenvolvimento de aplicações, a equipe do Monga é capaz de trabalhar em diferentes camadas, incluindo o frontend, onde utilizam HTML, JavaScript, TypeScript, C# e o backend com linguagens como NoSQL, SQL, Java, Python, Ruby e PHP, além de frameworks como Django e Flask.
 
 ## Aplicação em produção
 
-Por fim, na parte de aplicação em produção, a Monga é capaz de gerenciar diferentes aspectos, como monitoramento de aplicações, análise de logs e otimização de desempenho, utilizando ferramentas como Prometheus, Grafana e New Relic. Além disso, eles possuem conhecimentos em arquitetura de microsserviços e podem trabalhar com ferramentas como Docker Compose e Kubernetes para orquestrar e gerenciar aplicações em produção.
+Na parte de aplicação em produção, foco em gerenciar diferentes aspectos, como monitoramento de aplicações, análise e otimização de desempenho, utilizando ferramentas como Grafana e New Relic ou ferramentas do provider. Proticas em arquitetura de microsserviços e trabalho com ferramentas como Docker Compose e Kubernetes para orquestrar e gerenciar aplicações em produção.
